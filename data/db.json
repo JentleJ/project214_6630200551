@@ -1,0 +1,40 @@
+{
+  "student": {
+    "id": 1,
+    "name": "นายเวชพิสิฐ พุทธาทาป",
+    "student_id": "6630200551",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "school": "โรงเรียนนครระยองวิทยาคมวัดโขดใต้",
+    "image": "https://via.placeholder.com/150"
+  },
+  "courses": [
+    {
+      "id": 1,
+      "code": "01418236-65",
+      "name": "Operating Systems",
+      "credits": 3,
+      "grade": "F"
+    },
+    {
+      "id": 2,
+      "code": "01418261-65",
+      "name": "Fundamentals of Artificial Intelligence",
+      "credits": 3,
+      "grade": "F"
+    },
+    {
+      "id": 3,
+      "code": "01418221-65",
+      "name": "Fundamentals of Database Systems",
+      "credits": 3,
+      "grade": "F"
+    },
+    {
+      "id": 2,
+      "code": "01418232-65",
+      "name": "Algorithm Design and Analysis",
+      "credits": 3,
+      "grade": "F"
+    }
+  ]
+}
